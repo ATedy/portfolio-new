@@ -11,7 +11,7 @@ const Navbar = () => {
 
       {/* menu */}
       <div>
-        <ul>
+        <ul className="flex">
           <li>Home</li>
           <li>About</li>
           <li>Skills</li>
@@ -21,15 +21,21 @@ const Navbar = () => {
       </div>
 
       {/* Hamburger */}
-      <div>
+      <div className="hidden">
         <FaBars />
       </div>
 
       {/* Mobile menu */}
-      <div></div>
+      <ul className="hidden">
+        <li>Home</li>
+        <li>About</li>
+        <li>Skills</li>
+        <li>Work</li>
+        <li>Contact</li>
+      </ul>
 
       {/* social icons */}
-      <div></div>
+      <div className="hidden"></div>
     </div>
   );
 };
