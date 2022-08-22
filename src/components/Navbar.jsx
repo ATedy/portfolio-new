@@ -8,13 +8,28 @@ const Navbar = () => {
       <div>
         <img src={Logo} alt="Logo Image" style={{width: "50px"}} />
       </div>
+
+      {/* menu */}
       <div>
-        <li>Home</li>
-        <li>About</li>
-        <li>Skils</li>
-        <li>Work</li>
-        <li>Contact</li>
+        <ul>
+          <li>Home</li>
+          <li>About</li>
+          <li>Skills</li>
+          <li>Work</li>
+          <li>Contact</li>
+        </ul>
       </div>
+
+      {/* Hamburger */}
+      <div>
+        <FaBars />
+      </div>
+
+      {/* Mobile menu */}
+      <div></div>
+
+      {/* social icons */}
+      <div></div>
     </div>
   );
 };
