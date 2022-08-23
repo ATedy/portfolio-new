@@ -10,15 +10,14 @@ const Navbar = () => {
       </div>
 
       {/* menu */}
-      <div>
-        <ul className="flex">
-          <li>Home</li>
-          <li>About</li>
-          <li>Skills</li>
-          <li>Work</li>
-          <li>Contact</li>
-        </ul>
-      </div>
+
+      <ul className="md:flex hidden">
+        <li>Home</li>
+        <li>About</li>
+        <li>Skills</li>
+        <li>Work</li>
+        <li>Contact</li>
+      </ul>
 
       {/* Hamburger */}
       <div className="hidden">
@@ -26,7 +25,7 @@ const Navbar = () => {
       </div>
 
       {/* Mobile menu */}
-      <ul className="hidden">
+      <ul className="hidden ">
         <li>Home</li>
         <li>About</li>
         <li>Skills</li>
