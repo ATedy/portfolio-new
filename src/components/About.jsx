@@ -11,21 +11,19 @@ const About = () => {
             </p>
           </div>
           <div></div>
-          <div className="max-w-[1000px] w-full grid grid-cols-2 gap-8">
-            <div className="text-4xl font-bold">
-              <p>
-                Hi, I'm Amanuel, nice to meet you. Please take a look around{" "}
-              </p>
-            </div>
-            <div>
-              <p>
-                {" "}
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit,
-                dolore hic, unde deserunt voluptatibus quaerat placeat
-                aspernatur odio perspiciatis, ipsam repellat vel corrupti? Autem
-                corrupti nam numquam earum eos voluptatibus.{" "}
-              </p>
-            </div>
+        </div>
+        <div className="max-w-[1000px] w-full grid grid-cols-2 gap-8">
+          <div className=" sm:text-right text-4xl font-bold">
+            <p>Hi, I'm Amanuel, nice to meet you. Please take a look around </p>
+          </div>
+          <div>
+            <p>
+              {" "}
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit,
+              dolore hic, unde deserunt voluptatibus quaerat placeat aspernatur
+              odio perspiciatis, ipsam repellat vel corrupti? Autem corrupti nam
+              numquam earum eos voluptatibus.{" "}
+            </p>
           </div>
         </div>
       </div>
