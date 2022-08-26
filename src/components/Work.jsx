@@ -15,7 +15,7 @@ const Work = () => {
 
         {/* Container */}
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
-          {/* Grid Item */}
+          {/* Grid Item / Card */}
           <div
             style={{backgroundImage: `url(${WorkImg})`}}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
