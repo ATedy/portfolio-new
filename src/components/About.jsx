@@ -13,16 +13,14 @@ const About = () => {
           <div></div>
         </div>
         <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
-          <div className=" sm:text-right text-4xl font-bold">
-            <p>Hi, I'm Amanuel, nice to meet you. Please take a look around </p>
+          <div className=" sm:text-right text-3xl font-bold">
+            <p>Please look around </p>
           </div>
           <div>
             <p>
-              Full stack software developer with a year of experience in working
-              in agile environment. A team player and initiative taker with
-              experience in wide range of tools and technologies. I have worked
-              in whole project life cycle and team delivery which gave me the
-              ability to collaborate work and gel with any team quickly.
+              Software developer with more 2 years experience in these below
+              tools and technologies. I Have Been Working collaboratively with
+              other developers and team members in agile environment.
             </p>
           </div>
         </div>
