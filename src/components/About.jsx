@@ -18,11 +18,11 @@ const About = () => {
           </div>
           <div>
             <p>
-              {" "}
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit,
-              dolore hic, unde deserunt voluptatibus quaerat placeat aspernatur
-              odio perspiciatis, ipsam repellat vel corrupti? Autem corrupti nam
-              numquam earum eos voluptatibus.{" "}
+              Full stack software developer with a year of experience in working
+              in agile environment. A team player and initiative taker with
+              experience in wide range of tools and technologies. I have worked
+              in whole project life cycle and team delivery which gave me the
+              ability to collaborate work and gel with any team quickly.
             </p>
           </div>
         </div>

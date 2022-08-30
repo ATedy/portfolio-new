@@ -15,10 +15,11 @@ const Home = () => {
           I am a full stack developer.
         </h2>
         <p className="text-[#8892b0] py-4 max-w-[700px]">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. At inventore
-          rem aut magni odio nisi, officia eligendi, neque voluptatibus veniam
-          beatae sint. Odit, at dicta. Laborum omnis excepturi inventore
-          nostrum.
+          Full stack software developer with a year of experience in working in
+          agile environment. A team player and initiative taker with experience
+          in wide range of tools and technologies. I have worked in whole
+          project life cycle and team delivery which gave me the ability to
+          collaborate work and gel with any team quickly.
         </p>
         <div>
           <button className="text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600">
