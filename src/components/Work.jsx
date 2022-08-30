@@ -1,5 +1,7 @@
 import React from "react";
 import WorkImg from "../assets/workImg.jpeg";
+import back1 from "../assets/back1.jpg";
+import back2 from "../assets/back2.jpg";
 import realEstate from "../assets/realestate.jpg";
 
 const Work = () => {
@@ -17,7 +19,7 @@ const Work = () => {
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
           {/* Grid Item / Card */}
           <div
-            style={{backgroundImage: `url(${WorkImg})`}}
+            style={{backgroundImage: `url(${back1})`}}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
@@ -41,7 +43,7 @@ const Work = () => {
             </div>
           </div>
           <div
-            style={{backgroundImage: `url(${realEstate})`}}
+            style={{backgroundImage: `url(${back2})`}}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
@@ -65,7 +67,7 @@ const Work = () => {
             </div>
           </div>
           <div
-            style={{backgroundImage: `url(${WorkImg})`}}
+            style={{backgroundImage: `url(${back1})`}}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
@@ -89,7 +91,7 @@ const Work = () => {
             </div>
           </div>
           <div
-            style={{backgroundImage: `url(${realEstate})`}}
+            style={{backgroundImage: `url(${back2})`}}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
@@ -113,7 +115,7 @@ const Work = () => {
             </div>
           </div>
           <div
-            style={{backgroundImage: `url(${WorkImg})`}}
+            style={{backgroundImage: `url(${back1})`}}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
@@ -137,7 +139,7 @@ const Work = () => {
             </div>
           </div>
           <div
-            style={{backgroundImage: `url(${realEstate})`}}
+            style={{backgroundImage: `url(${back2})`}}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
