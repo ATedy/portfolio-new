@@ -12,11 +12,7 @@ const Navbar = () => {
   return (
     <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300">
       <div>
-        <img
-          src={LogoNew}
-          alt="site-logo"
-          style={{width: "100px", height: "80px"}}
-        />
+        <img src={LogoNew} style={{width: "100px", height: "80px"}} />
       </div>
 
       {/* menu */}
@@ -97,6 +93,7 @@ const Navbar = () => {
               className="flex justify-between items-center w-full text-gray-300 "
               href="https://www.linkedin.com/in/amanuel-tedros/"
               target="_blank"
+              rel="noreferrer"
             >
               Linkedin <FaLinkedin size={30} />
             </a>
@@ -106,6 +103,7 @@ const Navbar = () => {
               className="flex justify-between items-center w-full text-gray-300 "
               href="https://github.com/ATedy"
               target="_blank"
+              rel="noreferrer"
             >
               Github <FaGithub size={30} />
             </a>
