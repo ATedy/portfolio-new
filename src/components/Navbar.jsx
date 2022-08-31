@@ -12,7 +12,11 @@ const Navbar = () => {
   return (
     <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300">
       <div>
-        <img src={LogoNew} style={{width: "100px", height: "80px"}} />
+        <img
+          src={LogoNew}
+          alt="amanuel-tedros"
+          style={{width: "100px", height: "80px"}}
+        />
       </div>
 
       {/* menu */}
