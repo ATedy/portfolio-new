@@ -23,10 +23,11 @@ const About = () => {
             <p>
               I have more than 2 years of experience in working and developing
               programs that accelerate efficiency and effectiveness of
-              organizations. I have been working in agile team which gave me the
-              experience of collaboration work, team work, meeting deadlines ,
-              learn new technologies stacks and improve my existing skills as
-              well.
+              organizations. I have been working in an agile team which gave me
+              the experience of collaboration work, team work, meeting
+              deadlines. Core technical skills including JavaScript, React,
+              Node, Java and SQL/NoSQL databases, learn new technologies as well
+              like AWS.
             </p>
           </div>
         </div>
